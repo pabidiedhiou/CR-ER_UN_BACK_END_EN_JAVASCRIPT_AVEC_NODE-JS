@@ -1,0 +1,39 @@
+# Dépendances
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environnement local
+.env
+
+# Cache
+.cache/
+.cache-loader/
+
+# Fichiers de build ou de production
+dist/
+build/
+out/
+
+# Coverage des tests
+coverage/
+
+# Fichiers de verrouillage OS/Éditeurs
+.DS_Store
+Thumbs.db
+
+# Fichiers de l'éditeur de texte
+.vscode/
+.idea/
+*.swp
+
+# Fichiers temporaires et autres
+.tmp/
+*.temp
+*.pid
+*.pid.lock
